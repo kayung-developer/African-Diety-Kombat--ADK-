@@ -83,7 +83,7 @@ Check out our gameplay preview below:
 ---
 ## Useful Links
 - 🎮 **[Official Website](https://bit.ly/slogantechnologies)**
-- 📂 **[GitHub Repository]((https://github.com/kayung-developer/African-Diety-Kombat)**
+- 📂 **[GitHub Repository](https://github.com/kayung-developer/African-Diety-Kombat)**
 - 💬 **[Community Forum](link_to_community_forum)**
 - 📰 **[Latest Updates](link_to_latest_updates)**
 
