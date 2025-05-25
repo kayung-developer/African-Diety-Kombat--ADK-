@@ -1,4 +1,4 @@
-![ADKlogo](https://github.com/user-attachments/assets/2781c779-d47f-4a0a-9b9d-a1acb25cc8d7) 
+![ADK](https://github.com/kayung-developer/African-Diety-Kombat/blob/main/ADKlogo.jpg?raw=true) 
 ##  African Deity Kombat (ADK)
 
 ## Overview
@@ -66,16 +66,12 @@ Developed using **C# and Unity Engine**, ADK features both **single-player** and
 ## Screenshots
 Here are some previews of **African Deity Kombat (ADK):**
 
-![Screenshot 1](link_to_screenshot1.png)
-![Screenshot 2](link_to_screenshot2.png)
-![Screenshot 3](link_to_screenshot3.png)
-
 ![Character Selector](https://github.com/user-attachments/assets/366534d2-e770-43a9-8406-168b8188e560)
 ![Home](https://github.com/user-attachments/assets/2860a5bc-483a-4ed8-adc3-5b99a862790a)
 ![gameplay](https://github.com/user-attachments/assets/a6330024-a945-482f-89b5-8721deb22c1d)
 
 
-More images can be found in our **[Gallery](link_to_gallery_page)**.
+More images can be found in our **[Gallery](https://drive.google.com/drive/folders/14LbI4JV0YPvAj1gOJB6yd3krwA8RAtUv?usp=sharing)**.
 
 ---
 ## Video Preview
@@ -86,8 +82,8 @@ Check out our gameplay preview below:
 
 ---
 ## Useful Links
-- 🎮 **[Official Website](https://obodongp.com)**
-- 📂 **[GitHub Repository](https://github.com/AfricanDeityKombat)**
+- 🎮 **[Official Website](https://bit.ly/slogantechnologies)**
+- 📂 **[GitHub Repository]((https://github.com/kayung-developer/African-Diety-Kombat)**
 - 💬 **[Community Forum](link_to_community_forum)**
 - 📰 **[Latest Updates](link_to_latest_updates)**
 
