@@ -70,6 +70,11 @@ Here are some previews of **African Deity Kombat (ADK):**
 ![Screenshot 2](link_to_screenshot2.png)
 ![Screenshot 3](link_to_screenshot3.png)
 
+![Character Selector](https://github.com/user-attachments/assets/366534d2-e770-43a9-8406-168b8188e560)
+![Home](https://github.com/user-attachments/assets/2860a5bc-483a-4ed8-adc3-5b99a862790a)
+![gameplay](https://github.com/user-attachments/assets/a6330024-a945-482f-89b5-8721deb22c1d)
+
+
 More images can be found in our **[Gallery](link_to_gallery_page)**.
 
 ---
