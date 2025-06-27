@@ -84,25 +84,23 @@ Check out our gameplay preview below:
 ## Useful Links
 - 🎮 **[Official Website](https://bit.ly/slogantechnologies)**
 - 📂 **[GitHub Repository](https://github.com/kayung-developer/African-Diety-Kombat)**
-- 💬 **[Community Forum](link_to_community_forum)**
-- 📰 **[Latest Updates](link_to_latest_updates)**
 
 ---
 ## Contributors
 ### **Project Leads:**
-- **Olayiwola Akabashorun** – CEO, Obodon Group
-- **Slogan Technologies** – Development Partner & Co-Founder
+- **Olayiwola Akabashorun** – Co-Founder 
+- **Pascal Aondover** – AI/ML Engineer & Co-Founder
 
 ### **Key Contributor:**
-- <a href="https://linkedin.com/in/kayung-developer">**Pascal Oryiman Aondover**</a> – AI/ML, Robotics & Game Development Expert (Co-Founder)
+- <a href="https://aondover-portfolio.vercel.app/">**Pascal Aondover**</a> – AI/ML, Robotics & Game Development Expert (Co-Founder)
 
 ---
 ## Contact & Support
-📍 **Obodon Group Inc.**  
-📧 **Email:** princelillwitty@gmail.com, Laiakabash@hotmail.com  
-🌐 **Website:** [https://sites.google.com/view/slogantechnologies](https://sites.google.com/view/slogantechnologies) [https://obodongp.com](https://obodongp.com)  
+📍 **Slogan Technologies LLC.**  
+📧 **Email:**aondoverpascaloryiman@gmail.com, Laiakabash@hotmail.com  
+🌐 **Website:** [https://sites.google.com/view/slogantechnologies](https://sites.google.com/view/slogantechnologies)  
 
-🔗 **GitHub Repository:** [African Deity Kombat (ADK)](https://github.com/ADK)
+🔗 **GitHub Repository:** [African Deity Kombat (ADK)](https://github.com/kayung-developer/African-Diety-Kombat)
 
 ---
 ## License
