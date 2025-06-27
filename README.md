@@ -89,7 +89,7 @@ Check out our gameplay preview below:
 ## Contributors
 ### **Project Leads:**
 - **Olayiwola Akabashorun** – Co-Founder 
-- **Pascal Aondover** – AI/ML Engineer & Co-Founder
+- **Kareem Akabashorun** – AI/ML Engineer & Director(ICT)
 
 ### **Key Contributor:**
 - <a href="https://aondover-portfolio.vercel.app/">**Pascal Aondover**</a> – AI/ML, Robotics & Game Development Expert (Co-Founder)
